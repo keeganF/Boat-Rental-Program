@@ -1,0 +1,3 @@
+Boat Type:pontoon boat   Total:1185.0
+Boat Type:bass boat   Total:489.0
+Boat Type:jon boat   Total:173.0
